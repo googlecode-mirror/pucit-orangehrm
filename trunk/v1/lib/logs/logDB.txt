@@ -1,0 +1,30 @@
+Wed, 03 Feb 2010 19:10:29 +0500 : 
+Undefined variable: lang_login_title in C:\xampp\htdocs\localOHRM\login.php on line 211
+Wed, 03 Feb 2010 19:10:45 +0500 : 
+Undefined variable: lang_login_title in C:\xampp\htdocs\localOHRM\login.php on line 211
+Wed, 03 Feb 2010 19:11:38 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:12:03 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:12:51 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:13:36 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:13:38 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:13:38 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:13:38 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:13:39 +0500 : 
+Undefined variable: lang_Menu_Admin_Company_Property in C:\xampp\htdocs\localOHRM\index.php on line 268
+Wed, 03 Feb 2010 19:14:23 +0500 : 
+Undefined variable: lang_Menu_Admin_Job_JobSpecs in C:\xampp\htdocs\localOHRM\index.php on line 278
+Wed, 03 Feb 2010 19:14:33 +0500 : 
+Undefined variable: lang_Menu_Admin_Job_JobSpecs in C:\xampp\htdocs\localOHRM\index.php on line 278
+Wed, 03 Feb 2010 19:14:37 +0500 : 
+Undefined variable: lang_Menu_Admin_DataImportExport in C:\xampp\htdocs\localOHRM\index.php on line 336
+Wed, 03 Feb 2010 19:14:55 +0500 : 
+Undefined variable: lang_Menu_Admin_DataExportDefine in C:\xampp\htdocs\localOHRM\index.php on line 338
+Wed, 03 Feb 2010 19:15:06 +0500 : 
+Undefined variable: lang_Menu_Admin_DataExport in C:\xampp\htdocs\localOHRM\index.php on line 339
