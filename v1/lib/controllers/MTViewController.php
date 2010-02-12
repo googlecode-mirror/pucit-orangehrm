@@ -384,7 +384,7 @@ function reDirect($getArr,$object = null) {
 
 							break;
 
-			case 'UGR' :	$form_creator ->formPath = '/templates/maintenance/ugrights.php';
+			case 'UGR' :	$form_creator ->formPath = '/templates/maintenance/AdminMenu.php';
 								$urights = new Rights();
 								$usergroup = new UserGroups();
 
